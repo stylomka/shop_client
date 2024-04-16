@@ -14,7 +14,7 @@ function Order() {
     <>
       <Head>
         <title>
-        Команда ПКС | {shouldLoadContent ? 'Оформление заказа' : ''}
+          Команда ПКС | {shouldLoadContent ? 'Оформление заказа' : ''}
         </title>
         <meta charSet="UTF-8" />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
